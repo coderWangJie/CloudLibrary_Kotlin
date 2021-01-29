@@ -1,0 +1,4 @@
+include ':lib_nerve'
+include ':launcher'
+include ':app'
+rootProject.name = "CloudLibrary_Kotlin"
